@@ -14,6 +14,7 @@ Code:
 - CERES_SSF.ipynb to load, calculate and display albedo and cloud fractions
 ![image](https://github.com/CPOMUCL/MSc_Shipping_2023/blob/main/Albedo%20CERES%202020-03.png)
 - PlotShippingData_new.ipynb to display and track location of ships on a map 
+![image](https://github.com/CPOMUCL/MSc_Shipping_2023/blob/main/shipping%20world%202020-03.png)
 
 Analysis: 
 
